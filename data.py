@@ -24,7 +24,7 @@ class Data:
     START = """
 """
 
-    HELP = """
+    SHELP = """
 ✨ **ʜᴇʟᴘᴇʀ ʙᴏʀ** ✨
 
 /about - ᴛᴇɴᴛᴀɴɢ ʀᴏʙᴏᴛ
