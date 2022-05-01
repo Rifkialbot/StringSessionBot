@@ -42,7 +42,7 @@ async def _callbacks(bot: Client, callback_query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(Data.home_buttons),
         )
-    elif query == "generate":
+    elif query == "ganerate":
         await callback_query.answer()
         await callback_query.message.reply(ask_ques, reply_markup=InlineKeyboardMarkup(buttons_ques))
     elif query.startswith("pyrogram") or query.startswith("telethon"):
