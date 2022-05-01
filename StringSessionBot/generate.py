@@ -64,7 +64,7 @@ async def generate_session(bot: Client, msg: Message, telethon=False, old_pyro: 
         ty += " Bot"
     await msg.reply(f"ᴍᴇᴍᴜʟᴀɪ ᴘᴇᴍʙᴜᴀᴛᴀɴ sᴇsɪ : {ty}")
     user_id = msg.chat.id
-    api_id_msg = await bot.ask(user_id, 'ᴛᴏʟᴏᴍɢ ʙᴇʀɪᴋᴀɴ `API_ID` ᴀɴᴅᴀ', filters=filters.text)
+    api_id_msg = await bot.ask(user_id, 'ᴛᴏʟᴏɴɢ ʙᴇʀɪᴋᴀɴ `API_ID` ᴀɴᴅᴀ', filters=filters.text)
     if await cancelled(api_id_msg):
         return
     try:
