@@ -39,7 +39,7 @@ class Data:
 **ᴛᴇɴᴛᴀɴɢ sᴀʏᴀ** 
 ╭━━━━━━━━━━━━━━━━━
 ┞◈ ɴᴀᴍᴇ ᴍᴇ : ᴛᴏᴊɪ ʀᴏʙᴏᴛ 
-┟◈ ᴏᴡɴᴇʀ : [sᴋʏᴋʏ](https://t.me/skytixsz)
+┟◈ ᴏᴡɴᴇʀ : [sᴋʏᴋʏ](https://t.me/skytrixsz)
 ┟◈ ғʀᴀᴍᴇᴡᴏʀᴋ : [Pyrogram](https://docs.pyrogram.org)
 ┟◈ ʟᴀɴɢᴜᴀɢᴇ : [Python](https://www.python.org)
 ╰━━━━━━━━━━━━━━━━━
