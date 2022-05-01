@@ -32,11 +32,11 @@ from telethon.errors import (
 )
 
 
-ask_ques = "Please choose the python library you want to generate string session for"
+ask_ques = "sɪʟᴀʜ ᴋᴀɴ ᴘɪʟɪʜ sᴛʀɪɴɢ ʏᴀɴɢ ɪɴɢɪɴ ᴀɴᴅᴀ ɢᴜɴᴀᴋᴀɴ\n𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎 : ʙᴏᴛ ᴍᴜsɪᴄ\n𝑻𝒆𝒍𝒆𝒕𝒉𝒐𝒏 : ᴜsᴇʀʙᴏᴛ ᴀᴛᴀᴜ ʙᴏᴛ ᴍᴀɴᴀɢᴇʀ"
 buttons_ques = [
     [
-        InlineKeyboardButton("Pyrogram", callback_data="pyrogram1"),
-        InlineKeyboardButton("Telethon", callback_data="telethon"),
+        InlineKeyboardButton("ᴘʏʀᴏɢʀᴀᴍ", callback_data="pyrogram1"),
+        InlineKeyboardButton("ᴛᴇʟᴇᴛʜᴏɴ", callback_data="telethon"),
     ],
     [
         InlineKeyboardButton("Pyrogram v2 [New]", callback_data="pyrogram"),
